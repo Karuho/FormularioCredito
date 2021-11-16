@@ -1,0 +1,150 @@
+body{
+    font-family: "roboto, tahoma, arial";
+    font-size: 11pt;
+    color: #000000;
+    background-image:url("http://www.usat.edu.pe/web/wp-content/uploads/2020/06/Los-intentos-de-congelamiento-de-intereses-financieros.jpg");
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+fieldset{
+    border-radius: 20px;
+    border-color: #FFFFFF;
+    border-style: solid;
+    border-width: 2px;
+    padding: 20px 20px 20px 20px;
+    background-color: #FFFFFF;
+    opacity: 90%;
+}
+
+.extBorder {
+    padding: 25px;
+    line-height: 10px;
+}
+
+.table {
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #f2f2f2;
+    border-width: 1px;
+    background-color: #FFFFFF;
+}
+
+.tituloItem{
+    border-radius: 5px;
+    padding: 6px;
+    line-height: 5px;
+    font-weight: bold;
+    width: 180px;
+    font-size: 14px;
+    font-family: "roboto";
+}
+
+legend{
+    font-family: "roboto";
+    font-size:12pt;
+    color:#FFFFFF;
+    text-align:center;
+    font-weight: bold;
+    border-radius: 10px;
+    border-color: #dedede;
+    border-style: solid;
+    border-width: 2px;
+    background-color: #496051;
+    padding: 8px 16px 8px 16px;
+}
+
+.sombra{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.imagenCentral{
+    width: 20%;
+    border-radius: 20px;
+    padding: 5px 5px 5px 5px;
+    background-color: #f2f2f2;
+    opacity: 95%;
+}
+
+.textos{
+    font-family: "tahoma";
+    font-size: 10pt;
+    font-color: #6e6e6e;
+    font-weight: bold;
+    padding: 2px 2px 5px 2px;
+}
+
+.textosNormal{
+    font-family: "tahoma";
+    font-size: 10pt;
+    font-color: #6e6e6e;
+    /*font-weight: bold;*/
+    padding: 2px 2px 5px 2px;
+}
+
+.textosError{
+    font-family: "roboto";
+    font-size: 9pt;
+    color: #C32727;
+    padding: 2px 2px 5px 2px;
+}
+
+.textosOk{
+    font-family: "tahoma";
+    font-size: 9pt;
+    color: #414f5c;
+    /*font-weight: bold;*/
+    padding: 2px 2px 5px 2px;
+}
+
+.textosCajas{
+    font-family: "tahoma";
+    size: 10pt;
+    color:#7a7a7a;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+    border-color: #dedede;
+    border-style: solid;
+    border-width: 2px;
+    width: 200px;
+    height: 20px;
+    opacity: 95%;
+}
+
+.textosSelect{
+    font-family: "tahoma";
+    size: 10pt;
+    color:#7a7a7a;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+    border-color: #dedede;
+    border-style: solid;
+    border-width: 2px;
+    width: 200px;
+    height: 30px;
+    opacity: 95%;
+}
+
+.boton{
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 10pt;
+    color:#F2F2F2;
+    padding: 5px 5px 5px 5px;
+    border-radius: 20px;
+    border-color: #F2F2F2;
+    border-style: solid;
+    border-width: 1px;
+    width: 120px;
+    height: 32px;
+    background-color: #252E23;
+}
